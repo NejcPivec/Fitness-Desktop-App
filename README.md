@@ -1,4 +1,4 @@
-# Desktop App For Fitnes tracking
+# Desktop App For Fitness tracking
 
 What the app allows you to do:
 
@@ -12,6 +12,7 @@ What the app allows you to do:
 - Electron
 - React
 - MongoDB
+- React-Boostrap for styling
 
 ---
 
