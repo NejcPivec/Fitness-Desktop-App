@@ -24,3 +24,7 @@ What the app allows you to do:
 ---
 
 ## Screens
+
+![Main Page](https://github.com/NejcPivec/Fitness-Desktop-App/blob/master/screens/mainPage.png)
+
+![Measurements Page](https://github.com/NejcPivec/Fitness-Desktop-App/blob/master/screens/Meritve.png)
